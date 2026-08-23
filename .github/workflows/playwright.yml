@@ -33,7 +33,10 @@ jobs:
         run: npm ci
 
       - name: Install Playwright browsers
-        run: npx playwright install --with-deps ${{ matrix.project }}
+        # The "setup" project (auth.setup.ts) has no browser override, so it
+        # always runs on the default browser (chromium) regardless of which
+        # matrix project depends on it — install it alongside the matrix browser.
+        run: npx playwright install --with-deps chromium ${{ matrix.project }}
 
       - name: Run Playwright tests (${{ matrix.project }})
         run: npx playwright test --project=${{ matrix.project }}
