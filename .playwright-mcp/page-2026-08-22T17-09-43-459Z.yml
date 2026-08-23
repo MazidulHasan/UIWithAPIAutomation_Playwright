@@ -1,0 +1,42 @@
+- generic [ref=f2e2]:
+  - navigation [ref=f2e4]:
+    - generic:
+      - link "conduit" [ref=f2e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f2e6]:
+        - listitem [ref=f2e7]:
+          - link "Home" [ref=f2e8] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f2e9]:
+          - link "Sign in" [ref=f2e10] [cursor=pointer]:
+            - /url: /login
+        - listitem [ref=f2e11]:
+          - link "Sign up" [ref=f2e12] [cursor=pointer]:
+            - /url: /register
+  - generic [ref=f2e17]:
+    - heading "Sign up" [level=1] [ref=f2e18]
+    - paragraph [ref=f2e19]:
+      - link "Have an account?" [ref=f2e20] [cursor=pointer]:
+        - /url: /login
+    - generic:
+      - list
+    - group [ref=f2e22]:
+      - group [ref=f2e23]:
+        - textbox "Username" [ref=f2e24]
+      - group [ref=f2e25]:
+        - textbox "Email" [ref=f2e26]
+      - group [ref=f2e27]:
+        - textbox "Password" [ref=f2e28]
+      - button "Sign up" [disabled] [ref=f2e29]
+  - contentinfo [ref=f2e30]:
+    - generic [ref=f2e31]:
+      - link "conduit" [ref=f2e32] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f2e33]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f2e34] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f2e35] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

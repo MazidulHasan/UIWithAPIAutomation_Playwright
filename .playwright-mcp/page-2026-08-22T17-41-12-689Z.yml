@@ -1,0 +1,16 @@
+- generic [ref=f25e2]:
+  - navigation [ref=f25e4]:
+    - link "conduit" [ref=f25e5] [cursor=pointer]:
+      - /url: /
+  - contentinfo [ref=f25e39]:
+    - generic [ref=f25e40]:
+      - link "conduit" [ref=f25e41] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f25e42]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f25e43] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f25e44] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

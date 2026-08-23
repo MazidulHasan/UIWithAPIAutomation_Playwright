@@ -1,0 +1,256 @@
+- generic [ref=f9e2]:
+  - navigation [ref=f9e4]:
+    - generic:
+      - link "conduit" [ref=f9e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f9e45]:
+        - listitem [ref=f9e46]:
+          - link "Home" [ref=f9e47] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f9e48]:
+          - link "Sign in" [ref=f9e49] [cursor=pointer]:
+            - /url: /login
+        - listitem [ref=f9e50]:
+          - link "Sign up" [ref=f9e51] [cursor=pointer]:
+            - /url: /register
+  - generic [ref=f9e53]:
+    - generic [ref=f9e55]:
+      - heading "conduit" [level=1] [ref=f9e56]
+      - paragraph [ref=f9e57]: A place to learn and practice test automation.
+      - paragraph [ref=f9e58]:
+        - link "https://bondaracademy.com" [ref=f9e59] [cursor=pointer]:
+          - /url: https://bondaracademy.com?utm_source=conduitapp&utm_medium=subdomain&utm_campaign=subdomain_traffic
+    - generic [ref=f9e61]:
+      - generic [ref=f9e62]:
+        - list [ref=f9e64]:
+          - listitem [ref=f9e65]:
+            - generic [ref=f9e66] [cursor=pointer]: Your Feed
+          - listitem [ref=f9e67]:
+            - generic [ref=f9e68]: Global Feed
+          - text: 
+        - generic [ref=f9e69]:
+          - generic [ref=f9e71]:
+            - generic [ref=f9e73]:
+              - link [ref=f9e74] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e76]:
+                - link "Artem Bondar" [ref=f9e77] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e78]: January 28, 2024
+              - button " 2209" [ref=f9e80] [cursor=pointer]:
+                - generic [ref=f9e81]: 
+                - text: "2209"
+            - link [ref=f9e82] [cursor=pointer]:
+              - /url: /article/Discover-Bondar-Academy:-Your-Gateway-to-Efficient-Learning-1
+              - 'heading "Discover Bondar Academy: Your Gateway to Efficient Learning" [level=1] [ref=f9e83]'
+              - paragraph [ref=f9e84]: Discover Bondar Academy's unique place in the educational landscape, where value-focused and efficient learning approaches converge. Our goal is to rapidly enhance your professional technical skills, boosting your market competitiveness and paving the way for higher-paying job opportunities. The speed of your progress is in your hands – you set the pace, and we provide the solutions and support to help you achieve your desired outcomes.
+              - text: Read more...
+              - list [ref=f9e85]:
+                - listitem [ref=f9e86]: qa career
+                - listitem [ref=f9e87]: Bondar Academy
+                - listitem [ref=f9e88]: QA Skills
+                - listitem [ref=f9e89]: Value-Focused
+          - generic [ref=f9e91]:
+            - generic [ref=f9e93]:
+              - link [ref=f9e94] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e96]:
+                - link "Artem Bondar" [ref=f9e97] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e98]: January 28, 2024
+              - button " 483" [ref=f9e100] [cursor=pointer]:
+                - generic [ref=f9e101]: 
+                - text: "483"
+            - link [ref=f9e102] [cursor=pointer]:
+              - /url: /article/The-value-of-pre-recorded-video-classes.-The-most-efficient-approach-to-tranfer-the-knowledge-1
+              - heading "The value of pre-recorded video classes. The most efficient approach to tranfer the knowledge" [level=1] [ref=f9e103]
+              - paragraph [ref=f9e104]: As educational practices evolve, video tutorials have emerged as the most efficient method for imparting theoretical knowledge. At Bondar Academy, we prioritize expertly structured and crafted video tutorials, ensuring you learn quickly and effectively and advance your skills.
+              - text: Read more...
+              - list [ref=f9e105]:
+                - listitem [ref=f9e106]: Bondar Academy
+                - listitem [ref=f9e107]: Video Lectures
+                - listitem [ref=f9e108]: Tutorials
+          - generic [ref=f9e110]:
+            - generic [ref=f9e112]:
+              - link [ref=f9e113] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e115]:
+                - link "Artem Bondar" [ref=f9e116] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e117]: January 28, 2024
+              - button " 247" [ref=f9e119] [cursor=pointer]:
+                - generic [ref=f9e120]: 
+                - text: "247"
+            - link [ref=f9e121] [cursor=pointer]:
+              - /url: /article/Mastering-Knowledge-with-Self-Assessments:-Identifying-and-Bridging-Learning-Gaps-in-Education-1
+              - 'heading "Mastering Knowledge with Self-Assessments: Identifying and Bridging Learning Gaps in Education" [level=1] [ref=f9e122]'
+              - paragraph [ref=f9e123]: "Self-assessment is an essential tool for gauging your understanding of lecture material. It answers critical questions: Have you grasped everything correctly? Is there anything you've missed? Are you prepared for the next lesson? These assessments ensure that you build a solid foundation of knowledge, confidently and efficiently paving the way for swift progress and effective learning outcomes."
+              - text: Read more...
+              - list [ref=f9e124]:
+                - listitem [ref=f9e125]: Self-Assessment
+                - listitem [ref=f9e126]: Test
+                - listitem [ref=f9e127]: Exam
+          - generic [ref=f9e129]:
+            - generic [ref=f9e131]:
+              - link [ref=f9e132] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e134]:
+                - link "Artem Bondar" [ref=f9e135] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e136]: January 28, 2024
+              - button " 115" [ref=f9e138] [cursor=pointer]:
+                - generic [ref=f9e139]: 
+                - text: "115"
+            - link [ref=f9e140] [cursor=pointer]:
+              - /url: /article/Practical-Implementation-of-Skills:-Homework-Assignments-with-Instructor-Supervision-1
+              - 'heading "Practical Implementation of Skills: Homework Assignments with Instructor Supervision" [level=1] [ref=f9e141]'
+              - paragraph [ref=f9e142]: Knowledge or skills not reinforced through practical exercises can quickly fade, often faster than anticipated. Homework, particularly in tasks like writing your own code, is crucial for honing these skills and cementing your understanding. At Bondar Academy, we ensure this vital step by assigning homework, rigorously evaluating the outcomes, and providing valuable feedback to guide your learning journey.
+              - text: Read more...
+              - list [ref=f9e143]:
+                - listitem [ref=f9e144]: Homework
+                - listitem [ref=f9e145]: Assignments
+                - listitem [ref=f9e146]: Practice
+                - listitem [ref=f9e147]: Coding
+          - generic [ref=f9e149]:
+            - generic [ref=f9e151]:
+              - link [ref=f9e152] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e154]:
+                - link "Artem Bondar" [ref=f9e155] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e156]: January 28, 2024
+              - button " 104" [ref=f9e158] [cursor=pointer]:
+                - generic [ref=f9e159]: 
+                - text: "104"
+            - link [ref=f9e160] [cursor=pointer]:
+              - /url: /article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1
+              - 'heading "Embracing Daily Git Routines: Real Code Reviews on GitHub for Effective Coding Practice." [level=1] [ref=f9e161]'
+              - paragraph [ref=f9e162]: Learning to code is just one part of a larger skill set; effectively managing and organizing code is equally crucial. At Bondar Academy, we integrate Git and platforms like GitHub into the core learning cycle. With us, using Git becomes a regular routine, where organizing code in branches, storing it in remote repositories, and collaborating with others through strategies like branching, merging, pull requests, and code reviews are standard practice.
+              - text: Read more...
+              - list [ref=f9e163]:
+                - listitem [ref=f9e164]: YouTube
+                - listitem [ref=f9e165]: Git
+                - listitem [ref=f9e166]: GitHub
+          - generic [ref=f9e168]:
+            - generic [ref=f9e170]:
+              - link [ref=f9e171] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e173]:
+                - link "Artem Bondar" [ref=f9e174] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e175]: January 28, 2024
+              - button " 76" [ref=f9e177] [cursor=pointer]:
+                - generic [ref=f9e178]: 
+                - text: "76"
+            - link [ref=f9e179] [cursor=pointer]:
+              - /url: /article/Engaging-in-Live-Zoom-Sessions:-Interact-with-Instructors-and-Peers-Ask-Questions-in-Real-Time-1
+              - 'heading "Engaging in Live Zoom Sessions: Interact with Instructors and Peers, Ask Questions in Real-Time" [level=1] [ref=f9e180]'
+              - paragraph [ref=f9e181]: In our increasingly online world, personal engagement remains a crucial element of effective learning. At Bondar Academy, we address this by hosting live Zoom sessions. These sessions provide a platform for live interaction between instructors and students, and among students themselves. Complementing our Slack channel, these live sessions offer an additional avenue for asking questions and engaging in meaningful discussions.
+              - text: Read more...
+              - list [ref=f9e182]:
+                - listitem [ref=f9e183]: Zoom
+                - listitem [ref=f9e184]: Live Sessions
+          - generic [ref=f9e186]:
+            - generic [ref=f9e188]:
+              - link [ref=f9e189] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e191]:
+                - link "Artem Bondar" [ref=f9e192] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e193]: January 28, 2024
+              - button " 72" [ref=f9e195] [cursor=pointer]:
+                - generic [ref=f9e196]: 
+                - text: "72"
+            - link [ref=f9e197] [cursor=pointer]:
+              - /url: /article/Utilizing-Slack-for-Continuous-Engagement:-Connect-with-Instructors-Share-Insights-and-Collaborate-1
+              - 'heading "Utilizing Slack for Continuous Engagement: Connect with Instructors, Share Insights, and Collaborate" [level=1] [ref=f9e198]'
+              - paragraph [ref=f9e199]: Slack stands out as a widely-used messaging and collaboration platform, celebrated for its convenience and versatility. It enables simultaneous participation in multiple conversations, supports comments and emoji reactions, and allows users to share screenshots, videos, and code snippets. Its functionality extends to making calls in huddle sessions. Given these robust features, Bondar Academy has chosen Slack as our primary communication platform, facilitating seamless interaction and collaboration.
+              - text: Read more...
+              - list [ref=f9e200]:
+                - listitem [ref=f9e201]: Slack
+                - listitem [ref=f9e202]: Community
+                - listitem [ref=f9e203]: Collaboration
+          - generic [ref=f9e205]:
+            - generic [ref=f9e207]:
+              - link [ref=f9e208] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e210]:
+                - link "Artem Bondar" [ref=f9e211] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e212]: January 28, 2024
+              - button " 67" [ref=f9e214] [cursor=pointer]:
+                - generic [ref=f9e215]: 
+                - text: "67"
+            - link [ref=f9e216] [cursor=pointer]:
+              - /url: /article/Stay-Ahead-with-Bondar-Academy:-Subscribe-to-Our-YouTube-channel-for-Latest-Tech-and-Education-Updates-1
+              - 'heading "Stay Ahead with Bondar Academy: Subscribe to Our YouTube channel for Latest Tech and Education Updates" [level=1] [ref=f9e217]'
+              - paragraph [ref=f9e218]: Who doesn't appreciate high-quality free resources? YouTube serves as an ideal platform for sharing the latest news, updates, and a wealth of tips and tricks in test automation and technology. Keep abreast of these invaluable insights by subscribing to the @bondaracademy YouTube channel.
+              - text: Read more...
+              - list [ref=f9e219]:
+                - listitem [ref=f9e220]: YouTube
+          - generic [ref=f9e222]:
+            - generic [ref=f9e224]:
+              - link [ref=f9e225] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e227]:
+                - link "Artem Bondar" [ref=f9e228] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e229]: January 28, 2024
+              - button " 67" [ref=f9e231] [cursor=pointer]:
+                - generic [ref=f9e232]: 
+                - text: "67"
+            - link [ref=f9e233] [cursor=pointer]:
+              - /url: /article/Explore-the-Latest-in-Learning:-Bondar-Academy-Blog's-Educational-Insights-from-Our-Experts-1
+              - 'heading "Explore the Latest in Learning: Bondar Academy Blog''s Educational Insights from Our Experts" [level=1] [ref=f9e234]'
+              - paragraph [ref=f9e235]: Discover a treasure trove of knowledge on the Bondar Academy blog. Here, we share an array of tips, techniques, and valuable educational materials, all designed to keep you abreast of the latest technological trends and best practices. For easy access and continual learning, consider bookmarking our blog in your browser.
+              - text: Read more...
+              - list [ref=f9e236]:
+                - listitem [ref=f9e237]: Blog
+          - generic [ref=f9e239]:
+            - generic [ref=f9e241]:
+              - link [ref=f9e242] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f9e244]:
+                - link "Artem Bondar" [ref=f9e245] [cursor=pointer]:
+                  - /url: /profile/Artem%20Bondar
+                - generic [ref=f9e246]: January 28, 2024
+              - button " 75" [ref=f9e248] [cursor=pointer]:
+                - generic [ref=f9e249]: 
+                - text: "75"
+            - link [ref=f9e250] [cursor=pointer]:
+              - /url: /article/Take-the-Next-Step:-Join-Bondar-Academy-Today-and-Enroll-into-the-class-1
+              - 'heading "Take the Next Step: Join Bondar Academy Today and Enroll into the class" [level=1] [ref=f9e251]'
+              - paragraph [ref=f9e252]: Are you prepared to transform your educational journey? Begin by signing up at Bondar Academy, then register for our Slack Workspace to start exploring. We offer a range of classes, with some being completely free and others featuring free previews of the initial sections. This allows you to experience our content and teaching approach firsthand, helping you make an informed decision before enrolling in a class.
+              - text: Read more...
+              - list [ref=f9e253]:
+                - listitem [ref=f9e254]: Enroll
+                - listitem [ref=f9e255]: Start for Free
+          - navigation [ref=f9e256]:
+            - list [ref=f9e257]:
+              - listitem:
+                - button "1" [ref=f9e258]
+      - generic [ref=f9e260]:
+        - paragraph [ref=f9e261]: Popular Tags
+        - generic [ref=f9e262]:
+          - generic [ref=f9e263] [cursor=pointer]: Test
+          - generic [ref=f9e264] [cursor=pointer]: Blog
+          - generic [ref=f9e265] [cursor=pointer]: YouTube
+          - generic [ref=f9e266] [cursor=pointer]: Coding
+          - generic [ref=f9e267] [cursor=pointer]: Git
+          - generic [ref=f9e268] [cursor=pointer]: Bondar Academy
+          - generic [ref=f9e269] [cursor=pointer]: Slack
+          - generic [ref=f9e270] [cursor=pointer]: Zoom
+          - generic [ref=f9e271] [cursor=pointer]: GitHub
+          - generic [ref=f9e272] [cursor=pointer]: Value-Focused
+  - contentinfo [ref=f9e39]:
+    - generic [ref=f9e40]:
+      - link "conduit" [ref=f9e41] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f9e42]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f9e43] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f9e44] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

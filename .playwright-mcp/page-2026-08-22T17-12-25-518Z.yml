@@ -1,0 +1,55 @@
+- generic [ref=f4e2]:
+  - navigation [ref=f4e4]:
+    - link "conduit" [ref=f4e5] [cursor=pointer]:
+      - /url: /
+  - generic [ref=f4e46]:
+    - generic [ref=f4e50]:
+      - heading "qa_conduit_auto" [level=4] [ref=f4e52]
+      - paragraph [ref=f4e53]: QA Automation Engineer - Playwright Framework Bio Test
+      - link " Edit Profile Settings" [ref=f4e54] [cursor=pointer]:
+        - /url: /settings
+        - generic [ref=f4e55]: 
+        - text: Edit Profile Settings
+    - generic [ref=f4e58]:
+      - list [ref=f4e60]:
+        - listitem [ref=f4e61]:
+          - link "My Posts" [ref=f4e62]:
+            - /url: /profile/qa_conduit_auto
+        - listitem [ref=f4e63]:
+          - link "Favorited Posts" [ref=f4e64] [cursor=pointer]:
+            - /url: /profile/qa_conduit_auto/favorites
+      - generic [ref=f4e66]:
+        - generic [ref=f4e68]:
+          - generic [ref=f4e70]:
+            - link [ref=f4e71] [cursor=pointer]:
+              - /url: /profile/qa_conduit_auto
+            - generic [ref=f4e73]:
+              - link "qa_conduit_auto" [ref=f4e74] [cursor=pointer]:
+                - /url: /profile/qa_conduit_auto
+              - generic [ref=f4e75]: August 22, 2026
+            - button " 0" [ref=f4e77] [cursor=pointer]:
+              - generic [ref=f4e78]: 
+              - text: "0"
+          - link [ref=f4e79] [cursor=pointer]:
+            - /url: /article/Exploration-Article-for-Framework-Setup-65755
+            - heading "Exploration Article for Framework Setup" [level=1] [ref=f4e80]
+            - paragraph [ref=f4e81]: Temporary exploration article
+            - text: Read more...
+            - list [ref=f4e82]:
+              - listitem [ref=f4e83]: exploration
+        - navigation [ref=f4e84]:
+          - list [ref=f4e85]:
+            - listitem:
+              - button "1" [ref=f4e86]
+  - contentinfo [ref=f4e39]:
+    - generic [ref=f4e40]:
+      - link "conduit" [ref=f4e41] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f4e42]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f4e43] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f4e44] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

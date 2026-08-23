@@ -1,0 +1,34 @@
+- generic [ref=f23e2]:
+  - navigation [ref=f23e4]:
+    - generic:
+      - link "conduit" [ref=f23e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f23e6]:
+        - listitem [ref=f23e7]:
+          - link "Home" [ref=f23e8] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f23e9]:
+          - link " New Article" [ref=f23e10] [cursor=pointer]:
+            - /url: /editor
+            - generic [ref=f23e11]: 
+            - text: New Article
+        - listitem [ref=f23e12]:
+          - link " Settings" [ref=f23e13] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=f23e14]: 
+            - text: Settings
+        - listitem [ref=f23e15]:
+          - link "qa_conduit_auto" [ref=f23e16] [cursor=pointer]:
+            - /url: /profile/qa_conduit_auto
+  - contentinfo [ref=f23e34]:
+    - generic [ref=f23e35]:
+      - link "conduit" [ref=f23e36] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f23e37]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f23e38] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f23e39] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

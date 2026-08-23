@@ -1,0 +1,47 @@
+- generic [ref=f7e2]:
+  - navigation [ref=f7e4]:
+    - generic:
+      - link "conduit" [ref=f7e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f7e6]:
+        - listitem [ref=f7e7]:
+          - link "Home" [ref=f7e8] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f7e9]:
+          - link " New Article" [ref=f7e10] [cursor=pointer]:
+            - /url: /editor
+            - generic [ref=f7e11]: 
+            - text: New Article
+        - listitem [ref=f7e12]:
+          - link " Settings" [ref=f7e13] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=f7e14]: 
+            - text: Settings
+        - listitem [ref=f7e15]:
+          - link "qa_conduit_auto" [ref=f7e16] [cursor=pointer]:
+            - /url: /profile/qa_conduit_auto
+  - generic [ref=f7e22]:
+    - list [ref=f7e41]:
+      - listitem [ref=f7e42]: title can't be blank
+    - group [ref=f7e24]:
+      - group [ref=f7e25]:
+        - textbox "Article Title" [ref=f7e26]
+      - group [ref=f7e27]:
+        - textbox "What's this article about?" [ref=f7e28]
+      - group [ref=f7e29]:
+        - textbox "Write your article (in markdown)" [ref=f7e30]
+      - group [ref=f7e31]:
+        - textbox "Enter tags" [ref=f7e32]
+      - button "Publish Article" [ref=f7e33] [cursor=pointer]
+  - contentinfo [ref=f7e34]:
+    - generic [ref=f7e35]:
+      - link "conduit" [ref=f7e36] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f7e37]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f7e38] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f7e39] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

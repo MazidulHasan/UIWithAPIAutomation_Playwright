@@ -1,0 +1,2 @@
+[     232ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://conduit.bondaracademy.com/login:0
+[   15026ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://conduit-api.bondaracademy.com/api/users/login:0

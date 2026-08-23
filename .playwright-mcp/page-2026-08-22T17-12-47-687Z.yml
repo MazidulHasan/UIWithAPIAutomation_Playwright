@@ -1,0 +1,83 @@
+- generic [ref=f5e2]:
+  - navigation [ref=f5e4]:
+    - generic:
+      - link "conduit" [ref=f5e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=f5e6]:
+        - listitem [ref=f5e7]:
+          - link "Home" [ref=f5e8] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f5e9]:
+          - link " New Article" [ref=f5e10] [cursor=pointer]:
+            - /url: /editor
+            - generic [ref=f5e11]: 
+            - text: New Article
+        - listitem [ref=f5e12]:
+          - link " Settings" [ref=f5e13] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=f5e14]: 
+            - text: Settings
+        - listitem [ref=f5e15]:
+          - link "qa_conduit_auto" [ref=f5e16] [cursor=pointer]:
+            - /url: /profile/qa_conduit_auto
+  - generic [ref=f5e21]:
+    - generic [ref=f5e22]:
+      - list [ref=f5e24]:
+        - listitem [ref=f5e25]:
+          - generic [ref=f5e26] [cursor=pointer]: Your Feed
+        - listitem [ref=f5e27]:
+          - generic [ref=f5e28] [cursor=pointer]: Global Feed
+        - listitem [ref=f5e239]:
+          - generic [ref=f5e240]:
+            - generic [ref=f5e241]: 
+            - text: Git
+      - generic [ref=f5e29]:
+        - generic [ref=f5e243]:
+          - generic [ref=f5e245]:
+            - link [ref=f5e246] [cursor=pointer]:
+              - /url: /profile/Artem%20Bondar
+            - generic [ref=f5e248]:
+              - link "Artem Bondar" [ref=f5e249] [cursor=pointer]:
+                - /url: /profile/Artem%20Bondar
+              - generic [ref=f5e250]: January 28, 2024
+            - button " 104" [ref=f5e252] [cursor=pointer]:
+              - generic [ref=f5e253]: 
+              - text: "104"
+          - link [ref=f5e254] [cursor=pointer]:
+            - /url: /article/Embracing-Daily-Git-Routines:-Real-Code-Reviews-on-GitHub-for-Effective-Coding-Practice.-1
+            - 'heading "Embracing Daily Git Routines: Real Code Reviews on GitHub for Effective Coding Practice." [level=1] [ref=f5e255]'
+            - paragraph [ref=f5e256]: Learning to code is just one part of a larger skill set; effectively managing and organizing code is equally crucial. At Bondar Academy, we integrate Git and platforms like GitHub into the core learning cycle. With us, using Git becomes a regular routine, where organizing code in branches, storing it in remote repositories, and collaborating with others through strategies like branching, merging, pull requests, and code reviews are standard practice.
+            - text: Read more...
+            - list [ref=f5e257]:
+              - listitem [ref=f5e258]: YouTube
+              - listitem [ref=f5e259]: Git
+              - listitem [ref=f5e260]: GitHub
+        - navigation [ref=f5e261]:
+          - list [ref=f5e262]:
+            - listitem:
+              - button "1" [ref=f5e263]
+    - generic [ref=f5e220]:
+      - paragraph [ref=f5e221]: Popular Tags
+      - generic [ref=f5e222]:
+        - generic [ref=f5e223] [cursor=pointer]: Test
+        - generic [ref=f5e224] [cursor=pointer]: Blog
+        - generic [ref=f5e225] [cursor=pointer]: YouTube
+        - generic [ref=f5e226] [cursor=pointer]: Coding
+        - generic [ref=f5e227] [cursor=pointer]: Git
+        - generic [ref=f5e228] [cursor=pointer]: Bondar Academy
+        - generic [ref=f5e229] [cursor=pointer]: Slack
+        - generic [ref=f5e230] [cursor=pointer]: Zoom
+        - generic [ref=f5e231] [cursor=pointer]: GitHub
+        - generic [ref=f5e232] [cursor=pointer]: Value-Focused
+  - contentinfo [ref=f5e233]:
+    - generic [ref=f5e234]:
+      - link "conduit" [ref=f5e235] [cursor=pointer]:
+        - /url: /
+      - generic [ref=f5e236]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=f5e237] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=f5e238] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

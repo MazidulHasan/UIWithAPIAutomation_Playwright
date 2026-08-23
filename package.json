@@ -1,0 +1,42 @@
+{
+  "name": "conduit-e2e-framework",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript end-to-end automation framework for https://conduit.bondaracademy.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:chromium": "playwright test --project=chromium",
+    "test:firefox": "playwright test --project=firefox",
+    "test:webkit": "playwright test --project=webkit",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:parallel": "playwright test --workers=4",
+    "report:html": "playwright show-report",
+    "report:allure:generate": "allure generate ./allure-results --clean -o ./allure-report",
+    "report:allure:open": "allure open ./allure-report",
+    "report:allure": "npm run report:allure:generate && npm run report:allure:open",
+    "codegen": "playwright codegen https://conduit.bondaracademy.com/",
+    "install:browsers": "playwright install --with-deps",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "e2e",
+    "conduit",
+    "qa-automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0",
+    "allure-commandline": "^2.32.0",
+    "allure-playwright": "^3.2.0",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.9.3"
+  }
+}
