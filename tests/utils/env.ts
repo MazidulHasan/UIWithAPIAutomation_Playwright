@@ -4,7 +4,7 @@ import path from 'path';
 dotenv.config({ path: path.resolve(__dirname, '../../.env') });
 
 function required(name: string, fallback?: string): string {
-  const value = process.env[name] ?? fallback;
+  const value = process.env[name] || fallback;
   if (!value) {
     throw new Error(`Missing required environment variable: ${name}`);
   }
